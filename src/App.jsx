@@ -121,7 +121,7 @@ const App = () => {
       </div>
       
       <p className="text-center text-gray-400 mt-8 text-sm">
-        Built with React hooks: useReducer, useEffect, useRef
+        Task Manager by suyash gupta 
       </p>
     </div>
   );
